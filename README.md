@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Lueciosv">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lueciosv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lueciosv&layout=compact&langs_count=6&theme=omni"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliv3rls&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliv3rls&layout=compact&langs_count=6&theme=omni"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
 ### Acompanhe minhas redes sociais para mais detalhes de projetos!
  
 <div> 
-  <a href="https://www.youtube.com/@lueciooliveira4081" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@lueciooliveira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/luecio_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <!-- <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 </div>
